@@ -1,0 +1,14 @@
+[
+  {
+    "class": "android.widget.EditText",
+    "resource-id": "com.stoutner.privacybrowser.standard:id/url_edittext",
+    "text": "https://html.duckduckgo.com/html",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      

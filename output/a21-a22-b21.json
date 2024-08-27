@@ -1,0 +1,108 @@
+[
+  {
+    "class": "android.widget.ImageButton",
+    "resource-id": "fab_add",
+    "id-prefix": "douzifly.list:id/",
+    "text": "",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.ImageButton bounds=\"[933,63][1080,210]\" checkable=\"false\" checked=\"false\" class=\"android.widget.ImageButton\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"true\" index=\"2\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/fab_setting\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.widget.ImageButton bounds=\"[863,1567][1038,1752]\" checkable=\"false\" checked=\"false\" class=\"android.widget.ImageButton\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/fab_add\" scrollable=\"false\" selected=\"false\" text=\"\"/>"
+    ],
+    "stepping_events": [],
+    "package": "douzifly.list",
+    "activity": ".ui.home.MainActivity",
+    "event_type": "gui",
+    "score": 0.889358046228239,
+    "action": [
+      "click"
+    ]
+  },
+  {
+    "class": "android.widget.EditText",
+    "resource-id": "edit_text_content",
+    "id-prefix": "douzifly.list:id/",
+    "text": "Content",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.EditText bounds=\"[26,63][1054,172]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"true\" index=\"0\" long-clickable=\"true\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/edit_text\" scrollable=\"false\" selected=\"false\" text=\"Title\"/>",
+      "<android.widget.EditText bounds=\"[26,172][1054,1414]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"1\" long-clickable=\"true\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/edit_text_content\" scrollable=\"false\" selected=\"false\" text=\"Content\"/>"
+    ],
+    "stepping_events": [],
+    "package": "douzifly.list",
+    "activity": ".ui.home.MainActivity",
+    "event_type": "gui",
+    "score": 0.9367960361875072,
+    "action": [
+      "send_keys_and_hide_keyboard",
+      "Sample Todo"
+    ]
+  },
+  {
+    "class": "android.widget.ImageButton",
+    "resource-id": "fab_add_reminder",
+    "id-prefix": "douzifly.list:id/",
+    "text": "",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.ImageButton bounds=\"[26,1600][173,1747]\" checkable=\"false\" checked=\"false\" class=\"android.widget.ImageButton\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/fab_add_reminder\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.widget.ImageButton bounds=\"[933,63][1080,210]\" checkable=\"false\" checked=\"false\" class=\"android.widget.ImageButton\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/fab_setting\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.widget.ImageButton bounds=\"[863,1567][1038,1752]\" checkable=\"false\" checked=\"false\" class=\"android.widget.ImageButton\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/fab_add\" scrollable=\"false\" selected=\"false\" text=\"\"/>"
+    ],
+    "stepping_events": [],
+    "package": "douzifly.list",
+    "activity": ".ui.home.MainActivity",
+    "event_type": "gui",
+    "score": 0.9446790231141196,
+    "action": [
+      "click"
+    ]
+  },
+  {
+    "class": "android.widget.TextView",
+    "resource-id": "date_picker_header",
+    "id-prefix": "douzifly.list:id/",
+    "text": "MONDAY",
+    "content-desc": "",
+    "clickable": "false",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.TextView bounds=\"[185,235][894,314]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/date_picker_header\" scrollable=\"false\" selected=\"false\" text=\"MONDAY\"/>",
+      "<android.widget.TextView bounds=\"[185,342][894,434]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/date_picker_month\" scrollable=\"false\" selected=\"true\" text=\"AUG\"/>",
+      "<android.widget.TextView bounds=\"[185,409][894,692]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"douzifly.list\" password=\"false\" resource-id=\"douzifly.list:id/date_picker_day\" scrollable=\"false\" selected=\"true\" text=\"26\"/>"
+    ],
+    "stepping_events": [],
+    "package": "douzifly.list",
+    "activity": ".ui.home.MainActivity",
+    "event_type": "oracle",
+    "score": 0.8251966590966261,
+    "action": [
+      "wait_until_element_presence",
+      10,
+      "xpath",
+      "//android.widget.TextView[@text=\"MONDAY\"]"
+    ]
+  }
+]

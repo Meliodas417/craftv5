@@ -1,0 +1,137 @@
+[
+  {
+    "class": "android.widget.Button",
+    "resource-id": "btn_next",
+    "id-prefix": "org.secuso.privacyfriendlytodolist:id/",
+    "text": "Next",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.Button bounds=\"[0,1668][231,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_skip\" scrollable=\"false\" selected=\"false\" text=\"Skip\"/>",
+      "<android.widget.Button bounds=\"[849,1668][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_next\" scrollable=\"false\" selected=\"false\" text=\"Next\"/>"
+    ],
+    "stepping_events": [],
+    "package": "org.secuso.privacyfriendlytodolist",
+    "activity": ".tutorial.TutorialActivity",
+    "event_type": "gui",
+    "score": 0.8209930454977754,
+    "action": [
+      "click"
+    ]
+  },
+  {
+    "class": "EMPTY_EVENT",
+    "score": 0,
+    "event_type": "gui"
+  },
+  {
+    "class": "android.widget.Button",
+    "resource-id": "btn_next",
+    "id-prefix": "org.secuso.privacyfriendlytodolist:id/",
+    "text": "Next",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.Button bounds=\"[0,1668][231,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_skip\" scrollable=\"false\" selected=\"false\" text=\"Skip\"/>",
+      "<android.widget.Button bounds=\"[849,1668][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_next\" scrollable=\"false\" selected=\"false\" text=\"Next\"/>"
+    ],
+    "stepping_events": [],
+    "package": "org.secuso.privacyfriendlytodolist",
+    "activity": ".tutorial.TutorialActivity",
+    "event_type": "gui",
+    "score": 0.8223073924548365,
+    "action": [
+      "click"
+    ]
+  },
+  {
+    "class": "android.widget.Button",
+    "resource-id": "btn_next",
+    "id-prefix": "org.secuso.privacyfriendlytodolist:id/",
+    "text": "Next",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.Button bounds=\"[0,1668][231,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_skip\" scrollable=\"false\" selected=\"false\" text=\"Skip\"/>",
+      "<android.widget.Button bounds=\"[849,1668][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_next\" scrollable=\"false\" selected=\"false\" text=\"Next\"/>"
+    ],
+    "action": [
+      "click"
+    ],
+    "activity": ".tutorial.TutorialActivity",
+    "package": "org.secuso.privacyfriendlytodolist",
+    "event_type": "stepping"
+  },
+  {
+    "class": "android.widget.TextView",
+    "resource-id": "",
+    "id-prefix": "",
+    "text": "You can add subtasks and the progress of their maintask. Progress can be set manually or automatically by the number of done subtasks.",
+    "content-desc": "",
+    "clickable": "false",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.TextView bounds=\"[126,558][954,664]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"Everything is important\"/>",
+      "<android.widget.TextView bounds=\"[0,1032][1080,1236]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"You can add subtasks and the progress of their maintask. Progress can be set manually or automatically by the number of done subtasks.\"/>",
+      "<android.widget.TextView bounds=\"[462,1662][493,1741]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\u2022\"/>",
+      "<android.widget.TextView bounds=\"[493,1662][524,1741]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\u2022\"/>",
+      "<android.widget.TextView bounds=\"[524,1662][555,1741]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\u2022\"/>",
+      "<android.widget.TextView bounds=\"[555,1662][586,1741]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\u2022\"/>",
+      "<android.widget.TextView bounds=\"[586,1662][617,1741]\" checkable=\"false\" checked=\"false\" class=\"android.widget.TextView\" clickable=\"false\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\u2022\"/>"
+    ],
+    "stepping_events": [
+      {
+        "class": "android.widget.Button",
+        "resource-id": "btn_next",
+        "id-prefix": "org.secuso.privacyfriendlytodolist:id/",
+        "text": "Next",
+        "content-desc": "",
+        "clickable": "true",
+        "password": "false",
+        "naf": "",
+        "parent_text": "",
+        "sibling_text": "",
+        "filename": "",
+        "atm_neighbor": [
+          "<android.widget.Button bounds=\"[0,1668][231,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_skip\" scrollable=\"false\" selected=\"false\" text=\"Skip\"/>",
+          "<android.widget.Button bounds=\"[849,1668][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"org.secuso.privacyfriendlytodolist\" password=\"false\" resource-id=\"org.secuso.privacyfriendlytodolist:id/btn_next\" scrollable=\"false\" selected=\"false\" text=\"Next\"/>"
+        ],
+        "action": [
+          "click"
+        ],
+        "activity": ".tutorial.TutorialActivity",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "event_type": "stepping"
+      }
+    ],
+    "package": "org.secuso.privacyfriendlytodolist",
+    "activity": ".tutorial.TutorialActivity",
+    "event_type": "oracle",
+    "score": 1.0,
+    "action": [
+      "wait_until_element_presence",
+      10,
+      "xpath",
+      "//android.widget.TextView[@text=\"You can add subtasks and the progress of their maintask. Progress can be set manually or automatically by the number of done subtasks.\"]"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "class": "android.widget.EditText",
+    "resource-id": "url_edittext",
+    "id-prefix": "com.stoutner.privacybrowser.standard:id/",
+    "text": "https://html.duckduckgo.com/html",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.EditText bounds=\"[268,77][843,195]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"1\" long-clickable=\"true\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" resource-id=\"com.stoutner.privacybrowser.standard:id/url_edittext\" scrollable=\"false\" selected=\"false\" text=\"https://html.duckduckgo.com/html\"/>",
+      "<android.widget.EditText bounds=\"[60,1036][803,1144]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>"
+    ],
+    "stepping_events": [],
+    "package": "com.stoutner.privacybrowser.standard",
+    "activity": "com.stoutner.privacybrowser.activities.MainWebViewActivity",
+    "event_type": "gui",
+    "score": 0.8102325724366888,
+    "action": [
+      "click"
+    ]
+  },
+  {
+    "class": "android.widget.EditText",
+    "resource-id": "url_edittext",
+    "id-prefix": "com.stoutner.privacybrowser.standard:id/",
+    "text": "https://html.duckduckgo.com/html",
+    "content-desc": "",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.widget.EditText bounds=\"[268,77][843,195]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"true\" index=\"1\" long-clickable=\"true\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" resource-id=\"com.stoutner.privacybrowser.standard:id/url_edittext\" scrollable=\"false\" selected=\"false\" text=\"https://html.duckduckgo.com/html\"/>",
+      "<android.widget.EditText bounds=\"[60,1036][803,1144]\" checkable=\"false\" checked=\"false\" class=\"android.widget.EditText\" clickable=\"true\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>"
+    ],
+    "stepping_events": [],
+    "package": "com.stoutner.privacybrowser.standard",
+    "activity": "com.stoutner.privacybrowser.activities.MainWebViewActivity",
+    "event_type": "gui",
+    "score": 0.8102325724366888,
+    "action": [
+      "send_keys_and_enter",
+      "https://www.ics.uci.edu"
+    ]
+  },
+  {
+    "class": "android.view.View",
+    "resource-id": "",
+    "id-prefix": "",
+    "text": "",
+    "content-desc": "UCI ICS logo",
+    "clickable": "true",
+    "password": "false",
+    "naf": "",
+    "parent_text": "",
+    "sibling_text": "",
+    "filename": "",
+    "atm_neighbor": [
+      "<android.view.View bounds=\"[0,210][1080,383]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,294][44,296]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"UCI ICS logo\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n<android.widget.Spinner bounds=\"[934,236][1039,362]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Spinner\" clickable=\"true\" content-desc=\"Toggle site search form &amp; navigation\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>",
+      "<android.view.View bounds=\"[42,294][44,296]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"UCI ICS logo\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.view.View bounds=\"[0,378][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[0,378][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,1115][976,1317]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Accessing STEM in Higher Education\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n<android.view.View bounds=\"[42,1378][976,1648]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"High school students who are blind or low vision visit ICS &amp; learn about college life.\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n<android.view.View bounds=\"[42,1645][976,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,1729][493,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Read More \" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>\n<android.widget.Image bounds=\"[0,378][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Image\" clickable=\"true\" content-desc=\"AccessSTEM_PeterGroup_portrait\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>\n</android.view.View>",
+      "<android.view.View bounds=\"[0,378][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,1115][976,1317]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Accessing STEM in Higher Education\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n<android.view.View bounds=\"[42,1378][976,1648]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"High school students who are blind or low vision visit ICS &amp; learn about college life.\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n<android.view.View bounds=\"[42,1645][976,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,1729][493,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Read More \" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>\n<android.widget.Image bounds=\"[0,378][1080,1794]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Image\" clickable=\"true\" content-desc=\"AccessSTEM_PeterGroup_portrait\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"3\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>",
+      "<android.view.View bounds=\"[42,1115][976,1317]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Accessing STEM in Higher Education\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.view.View bounds=\"[42,1378][976,1648]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"High school students who are blind or low vision visit ICS &amp; learn about college life.\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"1\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.view.View bounds=\"[42,1645][976,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"2\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[42,1729][493,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Read More \" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>",
+      "<android.view.View bounds=\"[42,1729][493,1794]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"true\" content-desc=\"Read More \" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>",
+      "<android.view.View bounds=\"[945,341][1080,1270]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"4\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.view.View bounds=\"[945,341][1080,477]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.widget.Button bounds=\"[945,341][1080,477]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" content-desc=\"Accessibility Tools\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>\n</android.view.View>",
+      "<android.view.View bounds=\"[945,341][1080,477]\" checkable=\"false\" checked=\"false\" class=\"android.view.View\" clickable=\"false\" content-desc=\"\" displayed=\"true\" enabled=\"true\" focusable=\"false\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\">\n<android.widget.Button bounds=\"[945,341][1080,477]\" checkable=\"false\" checked=\"false\" class=\"android.widget.Button\" clickable=\"true\" content-desc=\"Accessibility Tools\" displayed=\"true\" enabled=\"true\" focusable=\"true\" focused=\"false\" index=\"0\" long-clickable=\"false\" package=\"com.stoutner.privacybrowser.standard\" password=\"false\" scrollable=\"false\" selected=\"false\" text=\"\"/>\n</android.view.View>"
+    ],
+    "stepping_events": [],
+    "package": "com.stoutner.privacybrowser.standard",
+    "activity": "com.stoutner.privacybrowser.activities.MainWebViewActivity",
+    "event_type": "oracle",
+    "score": 0.9426325543637817,
+    "action": [
+      "wait_until_element_presence",
+      10,
+      "xpath",
+      "//android.view.View[@content-desc=\"UCI ICS logo\"]"
+    ]
+  }
+]
